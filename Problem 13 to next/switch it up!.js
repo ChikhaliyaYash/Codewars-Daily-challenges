@@ -2,7 +2,7 @@
 
 // Input :: 1
 
-// Output :: "One".
+// Output :: "One"
 
 function switchItUp(number){
     const data = {
